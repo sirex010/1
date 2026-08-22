@@ -19,8 +19,7 @@
 
 vless://0f6a3565-44e6-46ec-a562-a6c73bf6b685@penvora.ciphero.xyz:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=penvora.ciphero.xyz&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad#🇪🇺 ⚡️ Авто – Быстрый
 vless://0f6a3565-44e6-46ec-a562-a6c73bf6b685@dunlix.norvexa.online:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=dunlix.norvexa.online&pbk=pObQ7F063LsHc_lDuUfzPnx83C-goIPyyffMZs1CG0U&sid=c9e5505275320b51#🇪🇺 ⚡️ Тестовый
-vless://5d71edc2-7547-4b0e-9c94-aebc8c153d60@de3.prformula.cfd:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de3.prformula.cfd&fp=edge&pbk=2UWlK1pgBgiFti_aRf1L8sbJALhr7LGyuq4Mf4pMQzM&type=tcp#🇪🇺 ⚡️ Авто – Билайн #1
-vless://5d71edc2-7547-4b0e-9c94-aebc8c153d60@ru-1.prformula.cfd:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-1.prformula.cfd&fp=qq&pbk=JL8gA9RUilF_m2NOQTUZNsOXGeWY0NQuPxw7YwN1Lls&type=tcp#🇪🇺 ⚡️ Авто – Билайн #2
+vless://5d71edc2-7547-4b0e-9c94-aebc8c153d60@de3.prformula.cfd:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de3.prformula.cfd&fp=edge&pbk=2UWlK1pgBgiFti_aRf1L8sbJALhr7LGyuq4Mf4pMQzM&type=tcp#🇪🇺 ⚡️ Авто – Билайн 
 vless://29161b9c-cfe4-4e4a-afdb-079f99c2a07f@ru.pool-c.netcenter-cdn.com:44003?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=pool-c.pools.netcenter-cdn.com&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&sid=5dd3388b52296b89&spx=/#🇩🇪 ⚡️ Германия – Быстрый #1
 vless://0f6a3565-44e6-46ec-a562-a6c73bf6b685@skimio.orbvia.online:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=skimio.orbvia.online&pbk=c9FNVDSx_oUTDFW0JewGq511wlGweUkQGgPPY9vsCVM&sid=08804e078e1257c8#🇩🇪 ⚡️ Германия #2
 vless://0f6a3565-44e6-46ec-a562-a6c73bf6b685@skimio.orbvia.online:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=skimio.orbvia.online&pbk=c9FNVDSx_oUTDFW0JewGq511wlGweUkQGgPPY9vsCVM&sid=08804e078e1257c8#🇩🇪 ⚡️ Германия #3
